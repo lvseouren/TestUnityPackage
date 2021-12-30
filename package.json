@@ -5,7 +5,7 @@
   "unity": "2020.3",
   "description": "pg localization",
   "dependencies": {
-    "com.unity.localization": "1.0.5",
+    "com.unity.localization": "1.0.5"
   },
   "license": "MIT",
   "repository": {
