@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cef5a2d8313c14d4db19ef4e711203bd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 607510528
+    m_Localized: prompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093440
+    m_Localized: determine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093441
+    m_Localized: Checking for updates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093442
+    m_Localized: Update in the...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093443
+    m_Localized: Loading in...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093444
+    m_Localized: Loading in...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093445
+    m_Localized: Connecting...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093446
+    m_Localized: Your account has been logged in on another device. Please pay attention
+      to account security.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093447
+    m_Localized: Update tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093448
+    m_Localized: In order for you to have a better game experience, you need to update
+      the game version to continue the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 620093449
+    m_Localized: update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49676274753536
+    m_Localized: OneForAll_Key12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677092642816
+    m_Localized: OneForAll_Key13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677151363072
+    m_Localized: OneForAll_Key14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677239443456
+    m_Localized: OneForAll_Key15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677298163712
+    m_Localized: OneForAll_Key16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677365272576
+    m_Localized: OneForAll_Key17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49677482713088
+    m_Localized: OneForAll_Key18
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
