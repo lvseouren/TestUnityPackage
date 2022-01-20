@@ -1,7 +1,10 @@
 {
-  "name": "com.pg.test",
-  "displayName": "test",
+  "name": "com.pg.localization",
+  "displayName": "Pg.Localization",
   "version": "1.0.0",
   "unity": "2020.3",
-  "description": "pg test"
+   "dependencies": {
+        "com.unity.localization": "1.0.5"
+      },
+  "description": "pg localization"
 }
